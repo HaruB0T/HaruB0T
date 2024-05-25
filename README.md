@@ -1,4 +1,4 @@
-- Estudiante de tercer año en Ingeniería de Sistemas Computacionales en un campus del Tecnológico Nacional de México.
+- Estudiante de cuarto año en Ingeniería de Sistemas Computacionales en un campus del Tecnológico Nacional de México.
 - Tengo interés general en la programación así que los proyectos que suba podrían no tener mucho sentido o ser variados.
 - Conozco sintaxis básica de Java, C#, HTML, CSS y PhP (Primeras dos hasta POO, HTML con Bootstrap y PhP básico).
 
